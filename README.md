@@ -1,2 +1,4 @@
 # micro-redradon
-Redradon: Colorscheme for the micro editor
+Redradon: Dark colorscheme for the micro editor
+
+![](/example.png)
