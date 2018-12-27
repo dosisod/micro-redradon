@@ -6,7 +6,7 @@ color-link constant.string "#E6DB74,#050505" #strings
 color-link constant.string.char "#BDE6AD,#282828" #just chars?
 color-link statement "#ff0000,#050505" #types, controls (eg function)
 color-link symbol "#ff0000,#050505" # ='s ()'s {}'s
-color-link preproc "#CB4B16,#282828" #??
+color-link preproc "#CB4B16,#050505" #<script>, <?php ?>
 color-link type "#ea0000,#050505" #Arrays
 color-link special "#A6E22E,#050505" #markdown maybe?
 color-link underlined "#D33682,#282828" #??
@@ -21,7 +21,6 @@ color-link gutter-error "#CB4B16,#282828" #??
 color-link gutter-warning "#E6DB74,#282828" #??
 color-link cursor-line "#000000" #current line
 color-link color-column "#323232" #??
-#No extended types; Plain brackets.
 #color-link type.extended "default"
 color-link type.extended "default"
 #color-link symbol.brackets "default"
