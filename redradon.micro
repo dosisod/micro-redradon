@@ -12,13 +12,13 @@ color-link special "#A6E22E,#050505" #markdown maybe?
 color-link underlined "#D33682,#050505" #markdown img
 color-link error "bold #CB4B16,#282828" #??
 color-link todo "#545454,#ffffff" #TODOs (//TODO)
-color-link statusline "#282828,#F8F8F2" #fname etc
-color-link tabbar "#282828,#F8F8F2" #upper tab bar
+color-link statusline "#050505,#F8F8F2" #fname etc
+color-link tabbar "#050505,#F8F8F2" #upper tab bar
 color-link indent-char "#505050,#050505" #(Color of the character which indicates tabs if the option is enabled)
 color-link line-number "#AAAAAA,#323232" #line num except for current
 color-link current-line-number "#AAAAAA,#050505" #line num for current
-color-link gutter-error "#CB4B16,#282828" #??
-color-link gutter-warning "#E6DB74,#282828" #??
+color-link gutter-error "#050505,#ff0000" #the '>>' in gutter
+color-link gutter-warning "#ff0000,#ff7700" #??
 color-link cursor-line "#050505" #current line
 color-link color-column "#323232" #??
 #color-link type.extended "default"
