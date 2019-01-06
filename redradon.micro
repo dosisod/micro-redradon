@@ -1,22 +1,22 @@
-color-link default "#F8F8F2,#050505" #variables, classes, other
-color-link comment "#75715E,#050505" #all comments
+color-link default "#f8f8f2,#050505" #variables, classes, other
+color-link comment "#75715e,#050505" #all comments
 color-link identifier "#8fdfef,#050505" #function calls
 color-link constant "#ea0000,#050505" #numbers
-color-link constant.string "#E6DB74,#050505" #strings
-color-link constant.string.char "#BDE6AD,#282828" #just chars?
+color-link constant.string "#e6db74,#050505" #strings
+color-link constant.string.char "#bde6ad,#282828" #just chars?
 color-link statement "#ff0000,#050505" #types, controls (eg function)
 color-link symbol "#ff0000,#050505" # ='s ()'s {}'s
-color-link preproc "#CB4B16,#050505" #<script>, <?php ?>
+color-link preproc "#cb4b16,#050505" #<script>, <?php ?>
 color-link type "#ea0000,#050505" #Arrays
-color-link special "#A6E22E,#050505" #markdown maybe?
-color-link underlined "#D33682,#050505" #markdown img
-color-link error "bold #CB4B16,#282828" #??
+color-link special "#a6e22e,#050505" #markdown maybe?
+color-link underlined "#d33682,#050505" #markdown img
+color-link error "bold #cb4b16,#282828" #??
 color-link todo "#545454,#ffffff" #TODOs (//TODO)
-color-link statusline "#050505,#F8F8F2" #fname etc
-color-link tabbar "#050505,#F8F8F2" #upper tab bar
+color-link statusline "#050505,#ffffff" #fname etc
+color-link tabbar "#050505,#ffffff" #upper tab bar
 color-link indent-char "#505050,#050505" #(Color of the character which indicates tabs if the option is enabled)
-color-link line-number "#AAAAAA,#323232" #line num except for current
-color-link current-line-number "#AAAAAA,#050505" #line num for current
+color-link line-number "#aaaaaa,#323232" #line num except for current
+color-link current-line-number "#aaaaaa,#050505" #line num for current
 color-link gutter-error "#050505,#ff0000" #the '>>' in gutter
 color-link gutter-warning "#ff0000,#ff7700" #??
 color-link cursor-line "#050505" #current line
